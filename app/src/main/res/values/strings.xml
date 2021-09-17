@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Firebase example 1</string>
+    <string name="firestore">Firestore</string>
+    <string name="old_first_name">Old First Name</string>
+    <string name="old_last_name">Old Last Name</string>
+    <string name="old_age">Old Age</string>
+    <string name="new_first_name">New First Name</string>
+    <string name="new_last_name">New Last Name</string>
+    <string name="new_age">New Age</string>
+    <string name="save_data">Save Data</string>
+    <string name="retrieve_data">Retrieve Data</string>
+    <string name="update_data">Update Data</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="from_age">From Age</string>
+    <string name="to_age">To Age</string>
+    <string name="upload">Upload</string>
+    <string name="download">Download</string>
+    <string name="home">Home</string>
+    <string name="images">Images</string>
+    <string name="storage">Storage</string>
+</resources>
